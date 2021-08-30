@@ -1,0 +1,140 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  span
+  {
+      border: 4px solid rgb(252, 252, 252)
+     
+    }
+  h1#heading {
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIwbf7-mR8YO3Lc_CPA90Z3c7fPUc-y2X9g&usqp=CAU");
+  
+    background-repeat: no-repeat;
+    background-size:1500px 300px;
+    margin-top: -1px;
+    margin-bottom:-5px ;
+    color: rgb(255, 254, 254);
+
+    text-align: center;
+    padding: 50px 50px 55px 86px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+   
+  img.mainimg{
+  
+    margin:0px;
+    height: 250px;
+    width: 480px;
+    padding: 0px 430px ;
+    background-color: rgb(214, 253, 211);
+   }
+
+  p {
+
+    color: rgb(24, 12, 12);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+  }
+
+  h3.heading {
+    width: 160px;
+  padding: 17px 30px ;
+  color: rgb(174, 174, 185);
+  border: 3px solid rgb(216, 205, 205);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0;
+  background-color: black;
+
+    
+  }
+
+  li
+  {
+font-size: 160%;
+font-family: fantasy;
+border: 3px solid rgb(20, 19, 19);
+background-color: black;
+padding: 2px 30px;
+width: 110px;
+text-align: center;
+color: rgb(247, 239, 232);
+  }
+
+img.equipment{
+      float: right;
+      height: 140px;
+      width: 170px;
+      border-radius: 50%;
+      border-style: groove;
+      border-color: rgb(28, 252, 140);
+      border-width: 4px ;
+      border-spacing: 20%;
+
+
+  }
+  div.para{
+      background-color: rgb(210, 245, 181);
+      height: 250px;
+  }
+  div.para2{
+    background-color: rgb(232, 250, 218);
+    height: 300px;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 360px;
+    padding: 17px 30px ;
+    background-color: black;
+    border-width: 50px;
+    color: rgb(161, 161, 180);
+    border: 3px solid rgb(201, 186, 186);
+
+}
+
+div.intro{
+    font-style: italic;
+
+}
+
+iframe{
+
+    padding-left: 380px;
+}
+
+div.bg{
+    background-color: rgb(250, 255, 253);
+    
+    
+}
+
+.topnav{
+
+  background-color: rgb(13, 16, 39);
+ border-bottom: 2px solid white;
+  padding: 18px 15px 44px 15px;
+  position: sticky;
+  top: 0;
+}
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+ padding-right: 28px;
+ font-size: 20px;
+}
+.navbar{
+
+  background-color: rgb(13, 16, 39);
+  padding: 18px 15px 44px 15px;
+}
+.navbar a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+ padding-right: 68px;
+ font-size: 20px;
+}
+
